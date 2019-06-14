@@ -1,0 +1,15 @@
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\fanyi.exe.config
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\fanyi.exe
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\fanyi.pdb
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\GoogleTranslateToken.dll
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\Newtonsoft.Json.dll
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\GoogleTranslateToken.pdb
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\Newtonsoft.Json.pdb
+D:\Git_SRC\vs2015\fanyi\fanyi\bin\Debug\Newtonsoft.Json.xml
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.csprojResolveAssemblyReference.cache
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.Form1.resources
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.Properties.Resources.resources
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.csproj.GenerateResource.Cache
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.exe
+D:\Git_SRC\vs2015\fanyi\fanyi\obj\Debug\fanyi.pdb

@@ -1,0 +1,5 @@
+D:\Git_SRC\vs2015\fanyi\GoogleTranslateToken\bin\Debug\GoogleTranslateToken.dll
+D:\Git_SRC\vs2015\fanyi\GoogleTranslateToken\bin\Debug\GoogleTranslateToken.pdb
+D:\Git_SRC\vs2015\fanyi\GoogleTranslateToken\obj\Debug\GoogleTranslateToken.csprojResolveAssemblyReference.cache
+D:\Git_SRC\vs2015\fanyi\GoogleTranslateToken\obj\Debug\GoogleTranslateToken.dll
+D:\Git_SRC\vs2015\fanyi\GoogleTranslateToken\obj\Debug\GoogleTranslateToken.pdb
